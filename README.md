@@ -8,8 +8,8 @@
 
  :speech_balloon: Connect with me 
 
- [![image](https://github.com/harisma24i/harisma24i/assets/143937523/f72912b5-8a1e-4128-9d5f-963746633093)](@Anna_harisma24)
- [![image](https://github.com/harisma24i/harisma24i/assets/143937523/2825e5b5-5359-4df6-9aee-822f3bd79840)](anna.leshchenkova@bk.ru)
+ [![image](https://github.com/harisma24i/harisma24i/assets/143937523/f72912b5-8a1e-4128-9d5f-963746633093)](https://t.me/Anna_harisma24)
+ <a href="mailto:anna.leshchenkova@bk.ru"> ![image](https://github.com/harisma24i/harisma24i/assets/143937523/2825e5b5-5359-4df6-9aee-822f3bd79840)</a>
 
  :open_file_folder: My repositories
  
