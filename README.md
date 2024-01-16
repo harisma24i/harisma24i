@@ -1,7 +1,7 @@
 👋 Hi there, I'm Anna.
-- I'm a marketer & data analyst.
-- 13+ years in marketing.
-- I like to find some consistent patterns & identify a product problem. 
+- I'm in marketing 13+ years.
+- I like to find some consistent patterns & identify a product problem. That's why I'm a data analyst now.
+- Open to offers.
 
  :hammer: Languages & Tools:
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SQL, PostgreSQL, Tableau.
