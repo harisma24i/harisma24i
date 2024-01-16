@@ -1,12 +1,13 @@
-👋 Hi there, I'm Anna.
-- I'm in marketing 13+ years.
-- I like to find some consistent patterns & identify a product problem. That's why I'm a data analyst now.
-- Open to offers.
+👋 Всем привет, меня зовут Анна.
+- Работаю в маркетинге 13+ лет.
+- Люблю находить закономерности и выявлять проблемы продукта, поэтому выучилась на аналитика данных.
+- Предпочитаю продуктовую и маркетинговую аналитику. 
+- Открыта для предложений.
 
- :hammer: Languages & Tools:
+ :hammer: Языки и инструменты:
 - Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, SQL, PostgreSQL, Tableau.
 
- :speech_balloon: Connect with me 
+ :speech_balloon: Связаться со мной 
 
  [![image](https://github.com/harisma24i/harisma24i/assets/143937523/f72912b5-8a1e-4128-9d5f-963746633093)](https://t.me/Anna_harisma24)
  <a href="mailto:anna.leshchenkova@bk.ru"> ![image](https://github.com/harisma24i/harisma24i/assets/143937523/2825e5b5-5359-4df6-9aee-822f3bd79840)</a>
